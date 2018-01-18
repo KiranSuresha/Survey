@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127726645364",
+    "firebase_url": "https://survey-b6d74.firebaseio.com",
+    "project_id": "survey-b6d74",
+    "storage_bucket": "survey-b6d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127726645364:android:7dcc0b086223acb2",
+        "android_client_info": {
+          "package_name": "com.example.android.survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127726645364-2m2n4kfkb5umgd4hliuf0ch4h213u9u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.survey",
+            "certificate_hash": "2d944d1963e31198041d74654f6a95f37aa353f7"
+          }
+        },
+        {
+          "client_id": "127726645364-60e3tusd1522n4pm4t7ikbcj1qiqedqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8BcOnhSKzh4rze2OPVvqL3L-amQkaBWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127726645364-60e3tusd1522n4pm4t7ikbcj1qiqedqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
